@@ -1,8 +1,8 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-//type: "Undergraduate course"
-//permalink: /teaching/2017/2018
+type: "Programming with C++ (Undergraduate - Physics)"
+permalink: /teaching/2017/2018
 venue: "Kwame Nkrumah University of Science and Technology, Department of Physics"
 date: 2017-08-01
 location: "Kumasi, Ghana"
