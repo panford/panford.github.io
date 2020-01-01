@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a master’s student at the African Institute for Mathematical Sciences-Rwanda the African Masters in Machine Intelligence (AMMI) by AIMS in patnership with Facebook and Google based in Kigali, Rwanda. I have a Bachelors degree in Physics from the Kwame Nkrumah University of Science and Technology, Ghana. My research interest is in Graph Representation Learning and application to drug discovery and Healthcare and also everything in the intersection between Machine Learning and Physics.
+I am a master’s student in the African Masters in Machine Intelligence (AMMI) program offered by the African Institute for Mathematical Sciences (AIMS), Rwanda centre, in patnership with Facebook and Google. I have a Bachelors degree in Physics from the Kwame Nkrumah University of Science and Technology, Ghana. My research interest is in Graph Representation Learning, Causal Inference and application to Healthcare and also everything in the intersection of Machine Learning and Physics.
