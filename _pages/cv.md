@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Physics (Major: Electronics), Kwame Nkrumah University of Science and Techonology, 2013 - 2017
+* M.S. Machine Intelligence, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017/ 2018 Academic year: Teaching and Research Assistant
+  * Kwame Nkrumah University of Science and Technology
+  * Duties included: Assisted in teaching courses
+   * Programming with C++ 
+   * Introductory Electronics
+   * Experimental Physics
+  * Supervisor: Akyana Britwum (PhD), Kofi Ampong (PhD)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Research Intern
+  * Vector Institute for Aritificial Intelligence
+  * Project: Graph-based approach in Healthcare medical recommendations
+  * Supervisor: Marzyeh Ghassemi
   
 Skills
 ======
