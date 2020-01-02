@@ -12,3 +12,4 @@ I am a master’s student in the African Masters in Machine Intelligence (AMMI) 
 
 # News 
 Doing research in a closed-environment
+Leaving the vector Institute
