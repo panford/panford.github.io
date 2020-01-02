@@ -40,7 +40,7 @@ Skills
   * PyTorch
   * Tensorflow
 
-Publications
+Projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,7 +52,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching and Research Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
