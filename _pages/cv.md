@@ -36,6 +36,9 @@ Skills
   * Python
   * C++
   * Java
+* Deep Learning Libraries
+  * PyTorch
+  * Tensorflow
 
 Publications
 ======
@@ -55,6 +58,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
