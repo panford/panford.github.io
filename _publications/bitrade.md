@@ -10,7 +10,7 @@ degree: 'Machine Intelligence'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Kobby Panford-Quainoo (2020). <i>Final Project, Masters</i>.'
 ---
-This paper is about the number 1. The number 3 is left for future work.
+<!--This paper is about the number 1. The number 3 is left for future work. -->
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf)-->.
 
