@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}<br>
  [pdf](https://github.com/panford/panford.github.io/files/Kobby_R_sum_.pdf)<br>
 Education
 ======
