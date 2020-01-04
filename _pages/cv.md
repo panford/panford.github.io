@@ -20,7 +20,7 @@ Teaching and Research Experience
 ======
 * 2017/ 2018 Academic year: Teaching and Research Assistant
   * Kwame Nkrumah University of Science and Technology
-  * Duties included: Assisted in teaching courses
+  * Duties included: Assisted in teaching courses:
   1. Programming with C++ 
   2. Introductory Electronics
   3. Experimental Physics
