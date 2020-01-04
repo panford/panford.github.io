@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. Physics (Major: Electronics), Kwame Nkrumah University of Science and Techonology, 2013 - 2017
-* M.S. Machine Intelligence, 2020 (expected)
+* M.S. Machine Intelligence, [African Masters in Machine Intelligence](https://aimsammi.org/), 2020 (expected)
 
 Work experience
 ======
