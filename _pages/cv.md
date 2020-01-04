@@ -19,9 +19,9 @@ Work experience
 * 2017/ 2018 Academic year: Teaching and Research Assistant
   * Kwame Nkrumah University of Science and Technology
   * Duties included: Assisted in teaching courses
-  I. Programming with C++ 
-  II. Introductory Electronics
-  III. Experimental Physics
+  1. Programming with C++ 
+  2. Introductory Electronics
+  3. Experimental Physics
   * Supervisors: Akyana Britwum (PhD), Kofi Ampong (PhD)
 
 * Fall 2019: Research Intern
