@@ -1,6 +1,6 @@
 ---
 title: "Bilateral Trade Modelling with Graph Neural Networks"
-collection: submission
+collection: 'submission'
 permalink: /publication/bitrade
 excerpt: 'This paper is about the number 2. The number 3 is left for future works.'
 date: 2020-01-01
