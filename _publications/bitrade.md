@@ -3,7 +3,7 @@ title: "Bilateral Trade Modelling with Graph Neural Network"
 collection: publications
 permalink: /publication/bitrade
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2020-01-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Kobby Panford-Quainoo, (2020). &quot; <i>Final Project, Master's</i>. 1(1).'
