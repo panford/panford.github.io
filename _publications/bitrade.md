@@ -2,7 +2,7 @@
 title: "Bilateral Trade Modelling with Graph Neural Networks"
 collection: 'submission'
 permalink: /publication/bitrade
-excerpt: 'This paper is about the number 2. The number 3 is left for future works.'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-01-01
 institution: 'AIMS-AMMI'
 degree: 'Machine Intelligence'
