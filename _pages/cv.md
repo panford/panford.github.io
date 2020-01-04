@@ -14,7 +14,7 @@ Education
 * BSc. Physics (Major: Electronics), [Kwame Nkrumah University of Science and Techonology](https://www.knust.edu.gh/), 2013 - 2017
 * MSc. Machine Intelligence, [African Masters in Machine Intelligence](https://aimsammi.org/), 2020 (expected)
 
-Work experience
+Teaching and Research Experience
 ======
 * 2017/ 2018 Academic year: Teaching and Research Assistant
   * Kwame Nkrumah University of Science and Technology
