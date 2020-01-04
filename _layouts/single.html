@@ -39,7 +39,7 @@ layout: default
         {% elsif page.collection == 'submission' %}
           <p>Published in <i>{{ page.institution }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} for a degree in {{ page.degree }} </p>
         {% elsif page.collection == 'publications' %}
-          <p>Submitted to to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           <p>Submitted to the <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
