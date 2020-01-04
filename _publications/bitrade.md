@@ -2,7 +2,7 @@
 title: "Bilateral Trade Modelling with Graph Neural Networks"
 collection: publications
 permalink: /publication/bitrade
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about the number 2. The number 3 is left for future works.'
 date: 2020-01-01
 venue: 'Final Project, Masters'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
