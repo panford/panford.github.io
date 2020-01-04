@@ -38,6 +38,8 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'submission' %}
           <p>Submitted to <i>{{ page.institution }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} for a degree in {{ page.degree }} </p>
+        {% elsif page.collection == 'publications' %}
+          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
