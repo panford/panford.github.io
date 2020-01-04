@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2020-01-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Kobby Panford-Quainoo, (2020). &quot; <i>Final Project, Master's</i>. 1(1).'
+citation: 'Kobby Panford-Quainoo, (2020). &quot;Paper Title Number 3 &quot; <i>Final Project, Master's</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
