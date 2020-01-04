@@ -8,8 +8,8 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Kobby Panford-Quainoo, (2018).  <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+<!--This paper is about the number 3. The number 4 is left for future work. -->
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Kobby Panford-Quainoo, You. (2018). <i>Journal 1</i>. 1(3).
+<!--Recommended citation: Kobby Panford-Quainoo, You. (2018). <i>Journal 1</i>. 1(3). -->
