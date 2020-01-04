@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [pdf](https://github.com/panford/panford.github.io/files/Kobby_R_sum_.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+ [pdf](https://github.com/panford/panford.github.io/files/Kobby_R_sum_.pdf)
 Education
 ======
 * BSc. Physics (Major: Electronics), [Kwame Nkrumah University of Science and Techonology](https://www.knust.edu.gh/), 2013 - 2017
