@@ -12,6 +12,6 @@ citation: 'Kobby Panford-Quainoo (2020). <i>Final Project, Masters</i>.'
 ---
 <!--This paper is about the number 1. The number 3 is left for future work. -->
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf)-->.
+<!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf)-->
 |[Paper](www.github.com/panford/bitrade)|[Code](https://github.com/panford/BiTrade-Graphs)|
 <!-- Recommended citation: Kobby Panford-Quainoo (2020). <i> Final Project, Masters</i> -->
