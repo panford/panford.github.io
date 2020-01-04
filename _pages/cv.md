@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [pdf]()"
+title: "CV [pdf](https://github.com/panford/panford.github.io/files/Kobby_R_sum_.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
