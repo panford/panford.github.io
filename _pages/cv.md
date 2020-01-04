@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
- [pdf](https://github.com/panford/panford.github.io/files/Kobby_R_sum_.pdf)<br>
+ [pdf](https://github.com/panford/panford.github.io/blob/master/files/Kobby_R_sum_.pdf)<br>
 
 {% include base_path %}
 
