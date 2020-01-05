@@ -2,7 +2,7 @@
 title: "Some Challenges in Healthcare Representation Learning and Proposed Approaches"
 collection: talks
 type: "Talk"
-permalink: 
+permalink: google_talk
 venue: "Google AI"
 date: 2019-12-03
 location: "Toronto, Canada"
