@@ -1,7 +1,7 @@
 ---
 title: "Spatio-Temporal modelling of Malaria"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/malariaproj
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2018-11-01
 venue: 'Journal 1'
