@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a master’s student in the [African Masters in Machine Intelligence (AMMI)](www.aimsammi.org) 18/19 program offered by the [African Institute for Mathematical Sciences (AIMS)](https://www.nexteinstein.org/), Rwanda centre, in partnership with Facebook and Google. I have a Bachelor's degree in Physics from [KNUST](https://www.knust.edu.gh). My research interest is in Graph Neural Networks and Causal Inference. 
-<!--and application to Healthcare and also everything in the intersection of Machine Learning and Physics.-->
+Kobby is my Ghanaian “day name” because I was born on Tuesday (you can check your day name [here](https://en.wikipedia.org/wiki/Ghanaian_name) too). 
+I graduated from [KNUST](https://www.knust.edu.gh) in Ghana with a bachelor’s degree in Physics and a major in Electronics.
+Currently, I am a student in [(AIMS)](https://www.nexteinstein.org/) - [(AMMI)](www.aimsammi.org), Rwanda and more excitingly part of the first cohort advised by Michael Defferrard. 
+I’m mostly interested in Deep Learning, Graph Neural Networks, Causal inference and Machine Learning for Healthcare.
+During the Fall Semester, I interned with Marzyeh Ghassemi at the University of Toronto and Vector Institute.
+I like meeting and keeping professors, collaborators and friends close by. 
+Outside academics and research, I love playing the Bass Guitar and sometimes piano in a band. 
 
 # News 
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Going to [NeurIPS](https://nips.cc/) in Vancouver, Dec 8 - 14, 2019 <br>
