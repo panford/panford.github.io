@@ -11,7 +11,7 @@ redirect_from:
 Kobby is my Ghanaian “day name” because I was born on Tuesday (you can check your day name [here](https://en.wikipedia.org/wiki/Ghanaian_name) too). 
 I graduated from [KNUST](https://www.knust.edu.gh) in Ghana with a bachelor’s degree in Physics and a major in Electronics.
 
-Currently, I am a student in [(AIMS)](https://www.nexteinstein.org/) - [(AMMI)](www.aimsammi.org), Rwanda and more exciting, part of the first cohort and advised by Micha\"el Defferrard. 
+Currently, I am a student in [(AIMS)](https://www.nexteinstein.org/) - [(AMMI)](www.aimsammi.org), Rwanda and more exciting, part of the first cohort and advised by Micha\"{e}l Defferrard. 
 I’m mostly interested in Deep Learning, Graph Neural Networks, Causal inference and Machine Learning for Healthcare.
 
 During the Fall Semester, I interned with Marzyeh Ghassemi at the University of Toronto and Vector Institute.
