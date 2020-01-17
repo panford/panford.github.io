@@ -83,7 +83,7 @@ author:
   name             : "Kobby Panford-Quainoo"
   avatar           : "picprofilecropped.png"
   bio              : "Wherever knowledge is invested in me, I invest back"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
