@@ -14,7 +14,7 @@ I graduated from [KNUST](https://www.knust.edu.gh) in Ghana with a bachelor’s 
 Currently, I am a student in [(AIMS)](https://www.nexteinstein.org/) - [(AMMI)](www.aimsammi.org), Rwanda and more exciting, part of the first cohort and advised by Micha\"{e}l Defferrard. 
 I’m mostly interested in Deep Learning, Graph Neural Networks, Causal inference and Machine Learning for Healthcare.
 
-During the Fall Semester, I interned with Marzyeh Ghassemi at the University of Toronto and Vector Institute.
+During the Fall Semester, I interned with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the University of Toronto and Vector Institute.
 I like meeting and keeping professors, collaborators and friends close by. 
 Outside academics and research, I love playing the Bass Guitar and sometimes piano in a band. 
 
