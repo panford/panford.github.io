@@ -15,7 +15,7 @@ Currently, I am a student in [(AIMS)](https://www.nexteinstein.org/) - [(AMMI)](
 I’m mostly interested in Deep Learning, Graph Neural Networks, Causal inference and Machine Learning for Healthcare.
 
 During the Fall Semester, I interned with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the Vector Institute and was part of the ML4H and zgroup groups.
-I like meeting and keeping professors, collaborators and friends close by. 
+I like meeting and keeping [professors](https://www.flickr.com/photos/186506832@N03/albums/72157712707975707), [collaborators and friends](https://www.flickr.com/photos/186506832@N03/albums/72157712708189451) close by. 
 Outside academics and research, I love playing the Bass Guitar and sometimes piano in a band. 
 
 # News 
