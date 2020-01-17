@@ -85,8 +85,8 @@ author:
   bio              : "Wherever knowledge is invested in me, I invest back"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "kpanford-quainoo@aimsammi.org"
   researchgate     : "https://www.researchgate.net/profile/Kobby_Panford-Quainoo"
   uri              :
