@@ -19,19 +19,9 @@ I like meeting and keeping [professors](https://www.flickr.com/photos/186506832@
 Outside academics and research, I love playing the Bass Guitar and sometimes piano in a band. 
 
 # News 
-03/2020  &nbsp;&nbsp; &nbsp; &nbsp; My paper "Bilateral Trade with Graph Neural Networks" got accepted at the [PML4DC](https://pml4dc.github.io/iclr2020/) <br> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; workshop co-located with ICLR 2020, Ethiopia. <br>
+03/2020  &nbsp;&nbsp; &nbsp; &nbsp; My paper "Bilateral Trade with Graph Neural Networks" got accepted at the [PML4DC](https://pml4dc.github.io/iclr2020/) <br> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp workshop co-located with ICLR 2020, Ethiopia. <br>
 01/2020  &nbsp;&nbsp; &nbsp; &nbsp; Excited to join [(AMMI)](https://aimsammi.org/) once more as a Teaching Assistant from Feb - Aug, 2020 <br>
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Going to [NeurIPS](https://nips.cc/) in Vancouver, Dec 8 - 14, 2019 <br>
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Giving an invited talk at [Google Brain](https://ai.google/), Toronto  <br>
 09/2019  &nbsp;&nbsp; &nbsp; &nbsp; I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/) <br>
-  
- <table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+
