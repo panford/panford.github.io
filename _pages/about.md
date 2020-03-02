@@ -23,5 +23,5 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 01/2020  &nbsp;&nbsp; &nbsp; &nbsp; Excited to join [(AMMI)](https://aimsammi.org/) once more as a Teaching Assistant from Feb - Aug, 2020 <br>
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Going to [NeurIPS](https://nips.cc/) in Vancouver, Dec 8 - 14, 2019 <br>
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Giving an invited talk at [Google Brain](https://ai.google/), Toronto  <br>
-09/2019  &nbsp;&nbsp; &nbsp; &nbsp; I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/) <br>
+09/2019  &nbsp;&nbsp; &nbsp; &nbsp; I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/)<br>
 
