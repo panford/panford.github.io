@@ -24,3 +24,14 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Going to [NeurIPS](https://nips.cc/) in Vancouver, Dec 8 - 14, 2019 <br>
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Giving an invited talk at [Google Brain](https://ai.google/), Toronto  <br>
 09/2019  &nbsp;&nbsp; &nbsp; &nbsp; I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/) <br>
+  
+ <table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
