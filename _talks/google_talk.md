@@ -8,4 +8,6 @@ date: 2019-12-03
 location: "Toronto, Canada"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+I talked about some healthcare challenges and some ways representation learning could make a difference.
+
+[Slides](http://panford.github.io/files/Kobby_medicalRep.pdf)
