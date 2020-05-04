@@ -1,4 +1,3 @@
-
 ---
 title: "Graph Representation Learning and some Applications"
 collection: talks
