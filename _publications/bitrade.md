@@ -7,7 +7,7 @@ date: 2020-01-01
 venue: 'AIMS-AMMI'
 institution: 'AIMS-AMMI'
 degree: 'Machine Intelligence'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://panford.github.io/files/iclr_sub_bgraph_paper.pdf'
 citation: 'Kobby Panford-Quainoo (2020). <i>Final Project, Masters</i>.'
 ---
 
