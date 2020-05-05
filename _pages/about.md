@@ -26,6 +26,7 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Giving an invited talk at [Google Brain](https://ai.google/), Toronto  <br>
 09/2019  &nbsp;&nbsp; &nbsp; &nbsp; I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/)<br>
 
+|---|---|
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
