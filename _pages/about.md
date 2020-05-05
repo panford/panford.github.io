@@ -27,31 +27,10 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 09/2019  &nbsp;&nbsp; &nbsp; &nbsp; I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/)<br>
 
 
-:::::: {.columns}
+| | |
+|---|---|
+|04/2020 | I attended ICLR 2020, formerly Addis Ababa where I presented my poster on [Bilateral Trade with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf), [slides](http://panford.github.io/files/BitGraph_presentation_iclr.pdf). I am also super excited I volunteered ( a tiny bit) to make the first fully virtual Machine Learning conference a success.|
+|03/2020 | My paper [Bilateral Trade with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf) got accepted at the [PML4DC](https://pml4dc.github.io/iclr2020/) <br> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; workshop co-located with ICLR 2020, Ethiopia. |
 
-::: {.column width="55%" data-latex="{0.55\textwidth}"}
-```{r, echo=FALSE, fig.width=5, fig.height=4}
-par(mar = c(4, 4, .2, .1))
-plot(cars, pch = 19)
-```
-:::
-
-::: {.column width="5%" data-latex="{0.05\textwidth}"}
-\ 
-<!-- an empty Div (with a white space), serving as
-a column separator -->
-:::
-
-::: {.column width="40%" data-latex="{0.4\textwidth}"}
-The figure on the left-hand side shows the `cars` data.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur.
-:::
-::::::
 
 
