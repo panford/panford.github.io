@@ -26,8 +26,32 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 12/2019  &nbsp;&nbsp; &nbsp; &nbsp; Giving an invited talk at [Google Brain](https://ai.google/), Toronto  <br>
 09/2019  &nbsp;&nbsp; &nbsp; &nbsp; I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/)<br>
 
-|---|---|
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
+:::::: {.columns}
+
+::: {.column width="55%" data-latex="{0.55\textwidth}"}
+```{r, echo=FALSE, fig.width=5, fig.height=4}
+par(mar = c(4, 4, .2, .1))
+plot(cars, pch = 19)
+```
+:::
+
+::: {.column width="5%" data-latex="{0.05\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column width="40%" data-latex="{0.4\textwidth}"}
+The figure on the left-hand side shows the `cars` data.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur.
+:::
+::::::
 
 
