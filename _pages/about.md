@@ -19,7 +19,7 @@ I like meeting and keeping [professors](https://www.flickr.com/photos/186506832@
 Outside academics and research, I love playing the Bass Guitar and sometimes piano in a band. 
 
 # News 
-| | |
+|Date| Activity |
 |---|---|
 |04/2020 | I attended ICLR 2020, formerly Addis Ababa where I presented my poster on [Bilateral Trade with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf), [slides](http://panford.github.io/files/BitGraph_presentation_iclr.pdf). I am also super excited I volunteered ( a tiny bit) to make the first fully virtual Machine Learning conference a success|
 |03/2020  | My paper [Bilateral Trade with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf) got accepted at the [PML4DC](https://pml4dc.github.io/iclr2020/) workshop co-located with ICLR 2020, Ethiopia |
