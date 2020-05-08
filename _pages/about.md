@@ -52,8 +52,3 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
   
 </tr>
 
-
-
-
-
-
