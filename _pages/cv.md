@@ -18,9 +18,16 @@ Education
 
 Teaching and Research Experience
 ======
+* 2019/ 2020 Tutor - African Masters in Machine Intelligence
+  * Courses:
+    * Statistical Machine Learning
+    * Regression
+    * Natural Language Processsing
+    * Kernel Methods
+
 * 2017/ 2018 Academic year: Teaching and Research Assistant
   * Kwame Nkrumah University of Science and Technology
-  * Duties included: Assisted in teaching courses:
+  * Assisted in teaching courses:
   1. Programming with C++ 
   2. Introductory Electronics
   3. Experimental Physics
