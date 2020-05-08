@@ -19,6 +19,7 @@ I like meeting and keeping [professors](https://www.flickr.com/photos/186506832@
 Outside academics and research, I love playing the Bass Guitar and sometimes piano in a band. 
 
 # News 
+<table>
 <tr>
 <td>|04/2020 |</td> I attended ICLR 2020, formerly Addis Ababa where I presented my poster on [Bilateral Trade Modeling with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf), [slides](http://panford.github.io/files/BitGraph_presentation_iclr.pdf). I am also super excited I volunteered ( a tiny bit) to make the first fully virtual Machine Learning conference a success|</td>
 </tr>
@@ -41,8 +42,8 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 <tr>
 <td>|09/2019 |</td> I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/)|</td>
 </tr>
+</table>
 
-}
 <table>
 <tr>
     <td>Key 1</td>
