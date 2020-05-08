@@ -50,16 +50,7 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 </tr>
 </table>
 
-<table>
-<tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
-</tr>
-<tr>
-    <td>Key 21</td>
-    <td>Value 2</td>
-</tr>
-</table>
+
 
 
 
