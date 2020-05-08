@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * BSc. Physics (Major: Electronics), [Kwame Nkrumah University of Science and Techonology](https://www.knust.edu.gh/), 2013 - 2017
-* MSc. Machine Intelligence, [African Masters in Machine Intelligence](https://aimsammi.org/), 2020 (expected)
+* MSc. Machine Intelligence, [African Masters in Machine Intelligence](https://aimsammi.org/), 2020
 
 Teaching and Research Experience
 ======
