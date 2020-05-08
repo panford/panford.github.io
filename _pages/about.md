@@ -48,7 +48,7 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 <td>09/2019</td> 
 <td>I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/)</td>
 </tr>
-</table>
+
 
 
 
