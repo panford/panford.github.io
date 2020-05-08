@@ -22,7 +22,7 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 <table>
 <tr>
 <td>04/2020 </td> 
-<td> I attended ICLR 2020, formerly Addis Ababa where I presented my poster on [Bilateral Trade Modeling with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf), [slides](http://panford.github.io/files/BitGraph_presentation_iclr.pdf). I am also super excited I volunteered ( a tiny bit) to make the first fully virtual Machine Learning conference a success|</td>
+<td> I attended ICLR 2020, formerly Addis Ababa where I presented my poster on [Bilateral Trade Modeling with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf), [slides](http://panford.github.io/files/BitGraph_presentation_iclr.pdf). <br> I am also super excited I volunteered ( a tiny bit) to make the first fully virtual Machine Learning conference a success|</td>
 </tr>
 
 <tr>
