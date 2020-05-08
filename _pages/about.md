@@ -40,13 +40,7 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 </tr>
 </table>
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text .
-  </div>
-  <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  some other texts
-  </div>
-</div>
+td, th {
+    border: 5px solid grey
+}
 
