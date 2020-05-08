@@ -12,7 +12,7 @@ Kobby is my Ghanaian “day name” because I was born on Tuesday (you can check
 
 I graduated from [KNUST](https://www.knust.edu.gh) in Ghana with a bachelor’s degree in Physics and a major in Electronics after which I was a Teaching and Research Assistant for a year. During this time, I met Machine learning and the journey begun.
 
-Currently, I am a student in [(AIMS](https://www.nexteinstein.org/) - [AMMI)](https://aimsammi.org/), Rwanda and more excitingly part of the first cohort and advised by [Michaël Defferrard](https://deff.ch/). 
+Currently, I am a tutor at [(AIMS](https://www.nexteinstein.org/) - [AMMI)](https://aimsammi.org/), Rwanda where I had my masters degree in Machine intelligence. I was advised by [Michaël Defferrard](https://deff.ch/). 
 I’m mostly interested in Deep Learning, Graph Neural Networks, Causal inference and Machine Learning for Healthcare.
 
 During the Fall Semester, I interned with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the Vector Institute and was part of the ML4H and zgroup groups.
