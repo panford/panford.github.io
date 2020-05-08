@@ -35,7 +35,7 @@ Teaching and Research Experience
 
 * Fall 2019: Research Intern
   * [Vector Institute for Aritificial Intelligence](https://vectorinstitute.ai/)
-  * Project: Graph-based approach in Healthcare medical recommendations
+  * Project: Graph-based approach in healthcare medical recommendations
   * Supervisor: Marzyeh Ghassemi
   
 Skills
