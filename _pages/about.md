@@ -34,7 +34,7 @@ Excited to join [(AMMI)](https://aimsammi.org/) once more as a Teaching Assistan
 12/2019<br>
 Going to [NeurIPS](https://nips.cc/) in Vancouver, Dec 8 - 14, 2019 
 
-12/2019<br><br>
+12/2019<br>
 Giving an invited talk at [Google Brain](https://ai.google/), Toronto
   
 09/2019<br>
