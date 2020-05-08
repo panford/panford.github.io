@@ -42,7 +42,7 @@ Outside academics and research, I love playing the Bass Guitar and sometimes pia
 
 <div class="row">
   <div class="col-md-8" markdown="1">
-  Some text.
+  Some text .
   </div>
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
