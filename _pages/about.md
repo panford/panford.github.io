@@ -20,35 +20,26 @@ I like meeting and keeping [professors](https://www.flickr.com/photos/186506832@
 Outside academics and research, I love playing the Bass Guitar and sometimes piano in a band. 
 
 # News 
-<table>
-<tr>
-<td>04/2020 </td> 
-<td> I attended ICLR 2020, formerly Addis Ababa where I presented my poster on [Bilateral Trade Modeling with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf), [slides](http://panford.github.io/files/BitGraph_presentation_iclr.pdf). <br> I am also super excited I volunteered ( a tiny bit) to make the first fully virtual Machine Learning conference a success </td>
-</tr>
 
-<tr>
-<td>03/2020</td>
-<td>My paper [Bilateral Trade Modeling with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf) got accepted at the [PML4DC](https://pml4dc.github.io/iclr2020/) workshop, ICLR 2020, formerly Ethiopia </td>
 
-<tr>
-<td>01/2020</td> 
-<td> Excited to join [(AMMI)](https://aimsammi.org/) once more as a Teaching Assistant from Feb - Aug, 2020 <br></td>
-</tr>
+04/2020 
+I attended ICLR 2020, formerly Addis Ababa where I presented my poster on [Bilateral Trade Modeling with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf), [slides](http://panford.github.io/files/BitGraph_presentation_iclr.pdf). <br> I am also super excited I volunteered ( a tiny bit) to make the first fully virtual Machine Learning conference a success
 
-<tr>
-<td>12/2019</td> 
-<td> Going to [NeurIPS](https://nips.cc/) in Vancouver, Dec 8 - 14, 2019 </td>
-</tr>
 
-<tr>
-<td>12/2019</td>
-<td>Giving an invited talk at [Google Brain](https://ai.google/), Toronto</td>
+03/2020
+My paper [Bilateral Trade Modeling with Graph Neural Networks](http://panford.github.io/files/iclr_sub_bgraph_paper.pdf) got accepted at the [PML4DC](https://pml4dc.github.io/iclr2020/) workshop, ICLR 2020, formerly Ethiopia
+
+
+01/2020
+Excited to join [(AMMI)](https://aimsammi.org/) once more as a Teaching Assistant from Feb - Aug, 2020 
+
+
+12/2019
+Going to [NeurIPS](https://nips.cc/) in Vancouver, Dec 8 - 14, 2019 
+
+12/2019
+Giving an invited talk at [Google Brain](https://ai.google/), Toronto
   
-</tr>
-
-<tr>
-<td>09/2019</td> 
-<td>I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/)</td>
-  
-</tr>
+09/2019
+I am starting an internship with [Marzyeh Ghassemi](http://www.marzyehghassemi.com/) at the [Vector Institute](https://vectorinstitute.ai/)
 
