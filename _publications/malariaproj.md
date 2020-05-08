@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/malariaproj
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2018-11-01
-venue: 'Journal 1'
+venue: 'MLSS, London, 2019 '
 paperurl: 'http://panford.github.io/files/Poster_MLSS.pdf'
 citation: 'BEST POSTER <i>MLSS-2019</i>.'
 ---
