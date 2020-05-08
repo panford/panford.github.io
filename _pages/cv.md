@@ -18,7 +18,7 @@ Education
 
 Teaching and Research Experience
 ======
-* 2019/ 2020 Tutor - African Masters in Machine Intelligence
+* 2019/ 2020 Tutor - [African Masters in Machine Intelligence](https://aimsammi.org/)
   * Courses:
     * Statistical Machine Learning
     * Regression
@@ -26,7 +26,7 @@ Teaching and Research Experience
     * Kernel Methods
 
 * 2017/ 2018 Academic year: Teaching and Research Assistant
-  * Kwame Nkrumah University of Science and Technology
+  * [Kwame Nkrumah University of Science and Techonology](https://www.knust.edu.gh/)
   * Courses:
     * Programming with C++ 
     * Introductory Electronics
@@ -34,7 +34,7 @@ Teaching and Research Experience
   * Supervisors: Akyana Britwum (PhD), Kofi Ampong (PhD)
 
 * Fall 2019: Research Intern
-  * Vector Institute for Aritificial Intelligence
+  * [Vector Institute for Aritificial Intelligence](https://vectorinstitute.ai/)
   * Project: Graph-based approach in Healthcare medical recommendations
   * Supervisor: Marzyeh Ghassemi
   
